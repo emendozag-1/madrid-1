@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Geographic Data from IP">9602cbdd4f613300a12a0f5e9310c7a3</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">e5f287114fa13300a12a0f5e9310c76c</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 15:49:51</sys_created_on>
+        <sys_id>a6e387514fa13300a12a0f5e9310c739</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPInfo Spoke" source="x_355838_ipinfo_p">8efe329d4f613300a12a0f5e9310c772</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">8efe329d4f613300a12a0f5e9310c772</sys_scope>
+        <sys_update_name>sys_hub_action_instance_a6e387514fa13300a12a0f5e9310c739</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 17:24:28</sys_updated_on>
+        <ui_id>998672f4-c6c0-4a7a-ba60-261044d43cc1</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=a6e387514fa13300a12a0f5e9310c739"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a6e387514fa13300a12a0f5e9310c739</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 17:24:28</sys_created_on>
+        <sys_id>64999fdd4fa13300a12a0f5e9310c707</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 17:24:28</sys_updated_on>
+        <value>8.8.8.8</value>
+        <variable display_value="">a41603914fa13300a12a0f5e9310c792</variable>
+    </sys_variable_value>
+</record_update>
